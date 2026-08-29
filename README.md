@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Abdallah+Kareem;Machine+Learning+%26+AI+Engineer;MLOps+%7C+LLMOps+%7C+Generative+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Abdallah+Kareem;AI+Engineer;MLOps+%7C+LLMOps+%7C+Generative+AI" />
 </p>
 
 <h1 align="center">Abdallah Kareem</h1>
 
 <h3 align="center">
-Machine Learning & AI Engineer | MLOps | LLMOps | Generative AI
+AI Engineer | MLOps | LLMOps | Generative AI
 </h3>
 
 ---
@@ -14,15 +14,11 @@ Machine Learning & AI Engineer | MLOps | LLMOps | Generative AI
 
 ### About Me
 
-Hi, I’m Abdallah Kareem, a Computer Science student at the Faculty of Computers and Artificial Intelligence, Cairo University, passionate about Machine Learning and Artificial Intelligence.
+Computer Science student at **Cairo University** focused on **AI Engineering**.
 
-I have a strong foundation in **Machine Learning, Deep Learning, Computer Vision, and NLP**, with hands-on experience building practical AI projects, including **LLM applications, RAG-based systems, and AI Agents**.
+I build practical AI systems across **Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI**, with a growing focus on **LLMs, RAG, AI Agents, MLOps, and LLMOps**.
 
-My current work focuses on **Generative AI, LLMs, RAG, AI Agents, MLOps, and LLMOps**, with an emphasis on building, deploying, and maintaining reliable AI systems.
-
-I work with technologies such as **Python, PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph, FastAPI, Ollama, Docker, Kubernetes, and MLflow**.
-
-I’m working toward becoming an **AI / Machine Learning Engineer**, focused on building **intelligent, scalable, and production-oriented AI solutions**.
+I enjoy turning AI ideas into **scalable, production-ready solutions** using modern tools and frameworks.
 
 ---
 
